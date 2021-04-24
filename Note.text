@@ -1,0 +1,7 @@
+We just puplished our local git repo
+to remote GitHub.com repository 
+Few thing happend :
+1. It aoutomatically created new Remot Repo
+	under your GitHub.com account
+Made the connection with your local git repo
+Aadded all your commits to remote repo
