@@ -5,3 +5,13 @@ Few thing happend :
 	under your GitHub.com account
 Made the connection with your local git repo
 Aadded all your commits to remote repo
+
+Now our work will continue locally
+
+1. add new file called nite.txt
+2. commited the changed to local repo
+3. we wnat this change to be reflected in 
+remote repository so We PUSHED local commits to 
+remote ripository using push origin button
+4. Observe it has been added in your repository 
+under GitHub.com
